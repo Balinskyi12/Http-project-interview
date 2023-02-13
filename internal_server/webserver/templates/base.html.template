@@ -1,0 +1,19 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The Test WebSite</title>
+  <meta name="description" content="The Test Template">
+  <meta name="author" content="TOHT">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+{BLOCK_CONTEXT}
+<script src="js/scripts.js"></script>
+</body>
+</html>
